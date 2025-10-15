@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" width="2000" height="1847.74" viewBox="0 0 2000 1847.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="174.24" y1="1075.1" x2="1148.23" y2="528.06" gradientTransform="translate(-143.04 274)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.44" stop-color="#c1d5de"></stop>
+      <stop offset="0.5" stop-color="#b9cdd9"></stop>
+      <stop offset="0.61" stop-color="#a4b9ca"></stop>
+      <stop offset="0.73" stop-color="#8196b1"></stop>
+      <stop offset="0.87" stop-color="#516790"></stop>
+      <stop offset="1" stop-color="#20386e"></stop>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="4923.22" y1="-2707.02" x2="5897.21" y2="-3254.05" gradientTransform="matrix(-0.5, 0.87, -0.87, -0.5, 1327.73, -5589.91)" xlink:href="#linear-gradient"></linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-840.22" y1="-3498.38" x2="133.77" y2="-4045.42" gradientTransform="translate(4375.05 -765.81) rotate(-120)" xlink:href="#linear-gradient"></linearGradient>
+  </defs>
+  <g>
+    <path class="cls-1" d="M889.22,319.68c-118.85,257.43-186,493.89-165.4,868.35,236.68,1.21,284.14,2.83,556.38,2.83-178.37,116.28-453,247.41-834.72,290.94L326.22,1275.24C418.64,1000.83,689.19,568.32,889.22,319.68Z"></path>
+    <path class="cls-2" d="M1673.78,1285C1525.35,1084.49,1314.71,874,1004.46,707.61,885.08,912,859.94,952.27,723.82,1188c-10.72-268.15-6.4-510.36,165.4-868.35h238.52C1319.17,536.91,1558.46,987.48,1673.78,1285Z"></path>
+    <path class="cls-3" d="M445.48,1481.8c247.88-28.28,535.54-105.42,834.72-290.94-117.3-205.57-139.62-247.48-275.74-483.25,219.21,121.45,421.6,254.65,669.32,577.41l-119.26,206.57C1270.67,1548.76,760.82,1530.71,445.48,1481.8Z"></path>
+  </g>
+</svg>
